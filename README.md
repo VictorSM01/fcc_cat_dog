@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QuvyRcyaHumWvRs6a4NAuM7bsh91BWqj#scrollTo=4IH86Ux_u7TZ)
 
 # fcc_cat_dog
 This repository contains my solution for the freeCodeCAmp challenge 'Cat and Dog Image Classifier'.
